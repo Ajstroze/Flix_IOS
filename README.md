@@ -39,13 +39,7 @@ N/A
 <img src="https://recordit.co/atMrATKQzW.gif" width=250><br>
 
 ### Challenge
-Installing AlamofireImage has been a huge unexpected challenge. 
-Even after cleaning the build and re-building, manually building the framework, 
-and deleting the 'derived data' folder, I was still receiving 100+ errors on Xcode, 
-mainly two errors: "Could not build Objective-C module 'AlamofireImage'" and 
-"No such module 'AlamofireImage'". 
-The solution was to specify the version in the Podfile. For my specific case, I add the following, 
-and Alamofire (4.9.1) and AlamofireImage (3.6.0) were installed instead.  
+Having to use the school laptops was a challenge and I ran into lots of time consuming bugs of switching files between macs and Xcode versions
 ```
 #Pods for flixster
 pod 'AlamofireImage', '~> 3.1'
