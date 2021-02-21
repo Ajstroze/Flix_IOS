@@ -18,7 +18,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/Pf0eng5LG7.gif" width=250><br>
 
 ### Notes
-N/A
 
 ---
 
@@ -39,7 +38,7 @@ N/A
 <img src="https://recordit.co/atMrATKQzW.gif" width=250><br>
 
 ### Challenge
-Having to use the school laptops was a challenge and I ran into lots of time consuming bugs of switching files between macs and Xcode versions
+Having to use the school laptops was a challenge and I ran into lots of time consuming bugs of switching files between macs and Xcode versions. There was also a lot of challenges with alamo fire and downloading other assets
 ```
 #Pods for flixster
 pod 'AlamofireImage', '~> 3.1'
