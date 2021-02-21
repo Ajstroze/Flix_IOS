@@ -15,7 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/Pf0eng5LG7.gif" width=250><br>
+<img src="http://g.recordit.co/mR2RCJCujf.gif" width=250><br>
 
 ### Notes
 
@@ -35,7 +35,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://recordit.co/atMrATKQzW.gif" width=250><br>
+<img src="http://g.recordit.co/mR2RCJCujf.gif" width=250><br>
 
 ### Notes
 Having to use the school laptops was a challenge and I ran into lots of time consuming bugs of switching files between macs and Xcode versions. There was also a lot of challenges with alamo fire and downloading other assets
