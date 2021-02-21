@@ -39,7 +39,3 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Having to use the school laptops was a challenge and I ran into lots of time consuming bugs of switching files between macs and Xcode versions. There was also a lot of challenges with alamo fire and downloading other assets
-```
-#Pods for flixster
-pod 'AlamofireImage', '~> 3.1'
-```
